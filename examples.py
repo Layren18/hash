@@ -10,3 +10,4 @@ hash_object_sha256 = hashlib.sha256(string.encode())
 print("Хэш Вашей строки, полученный с помощью MD5: ", hash_object_md5.hexdigest())
 print("Хэш Вашей строки, полученный с помощью SHA256: ", hash_object_sha256.hexdigest())
 
+# print(event, values) # дебаг
