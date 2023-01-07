@@ -20,4 +20,3 @@ elif algorithm == 'SHA256':
 
 file.close()
 hash.close()
-
