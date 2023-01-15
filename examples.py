@@ -11,3 +11,4 @@ print("Хэш Вашей строки, полученный с помощью MD
 print("Хэш Вашей строки, полученный с помощью SHA256: ", hash_object_sha256.hexdigest())
 
 # print(event, values) # дебаг
+
